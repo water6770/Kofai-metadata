@@ -18,6 +18,22 @@
           "desc": "Mint of token asset"
         },
         {
+  "name": "KOFAI",
+  "symbol": "KOFAI",
+  "image": "https://raw.githubusercontent.com/water6770/Kofai-metadata/main/logo.jpg",
+  "description": "KOFAI - Coffee & AI Innovation",
+  "seller_fee_basis_points": 500,
+  "attributes": [],
+  "properties": {
+    "creators": [
+      {
+        "address": "B2xZaWQNwhEDNiLuMyeECqyNNj6qk75QtJTYVGfykWKq",
+        "share": 100
+      }
+    ]
+  }
+}
+{
           "name": "mintAuthority",
           "isMut": false,
           "isSigner": true,
